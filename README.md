@@ -15,6 +15,15 @@
 ![صورة أخرى](https://github.com/user-attachments/assets/8ef016fd-f70b-40e7-b408-a2dd56551756)  
 ![صورة المزايا](https://github.com/user-attachments/assets/ef4ffa67-d580-40dd-af28-2790e1d59e8c)  
 
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9535d132-21da-4c9d-acac-b4ed41816725" />
+
+<img width="720" height="1280" alt="Screenshot_1792780443" src="https://github.com/user-attachments/assets/0b7d51dd-004c-467e-a7e8-63cf7aa63256" />
+
+<img width="720" height="1280" alt="Screenshot_1792780457" src="https://github.com/user-attachments/assets/4feac41a-188a-4438-95d7-4b2e1a6b4dec" />
+
+
+
 ## 📖 **لمحة عن هذا التطبيق**
 
 **صلاة الفجر** تعتبر من الصلوات الهامة في الإسلام، ومن يصلي صلاة الفجر يكون في ذمة الله وحفظه. يساعد هذا التطبيق المسلمين على الاستيقاظ لأداء صلاة الفجر بميزات متعددة تساعد في ضبط التنبيهات وتخصيص الأصوات. يعمل التطبيق بدون إنترنت وبواجهة سهلة الاستخدام.
